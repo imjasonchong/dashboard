@@ -1,0 +1,86 @@
+export const girls = [
+    {
+        id : 0,
+        name: "Miku",
+        age : "19",
+        body : "C",
+        location : "Sydney",
+        price : "$200",
+        tags : ["Sydney","High"],
+        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/08/Seiko-Jp-1-scaled.jpeg",
+        avatarURL : "www.facebook.com",
+        imgsURL: ["www.facebook.com","www.facebook.com"]
+    },
+    {
+        id : 1,
+        name : "Ruru",
+        age : "21",
+        body : "B",
+        location : "Sydney",
+        price : "$180",
+        tags : ["Sydney","Student"],
+        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/10/Pinky-Cn-03.png",
+        avatarURL : "www.facebook.com",
+        imgsURL: ["www.facebook.com","www.facebook.com"]
+    },
+    {
+        id : 2,
+        name : "Shari",
+        age : "18",
+        body : "C",
+        location : "Sydney",
+        price : "$200",
+        tags : ["Sydney","Cute"],
+        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/09/Hitomi0007.png",
+        avatarURL : "www.facebook.com",
+        imgsURL: ["www.facebook.com","www.facebook.com"]
+    },
+    {
+        id : 3,
+        name : "Jennifer",
+        age : "25",
+        body : "C",
+        location : "Sydney",
+        price : "$200",
+        tags : ["Sydney","Student","Busty"],
+        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/10/Jessie-2-My.jpeg",
+        avatarURL : "www.facebook.com",
+        imgsURL: ["www.facebook.com","www.facebook.com"]
+    },
+    {
+        id : 4,
+        name : "Mandy",
+        age : "25",
+        body : "C",
+        location : "Sydney",
+        price : "$180",
+        tags : ["Sydney","Student","Busty"],
+        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/10/Hebe-Cn-1.png",
+        avatarURL : "www.facebook.com",
+        imgsURL: ["www.facebook.com","www.facebook.com"]
+    },
+    {
+        id : 5,
+        name : "Haru",
+        age : "25",
+        body : "C",
+        location : "Sydney",
+        price : "$180",
+        tags : ["Sydney","Student","Busty"],
+        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/10/Shari-Jp-04.png",
+        avatarURL : "www.facebook.com",
+        imgsURL: ["www.facebook.com","www.facebook.com"]
+    },
+    {
+        id : 6,
+        name : "Niko",
+        age : "25",
+        body : "C",
+        location : "Sydney",
+        price : "$180",
+        tags : ["Sydney","Student","Busty"],
+        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/08/Mako-Jp-01.png",
+        avatarURL : "www.facebook.com",
+        imgsURL: ["www.facebook.com","www.facebook.com"]
+    },
+]

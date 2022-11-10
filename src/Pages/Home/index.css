@@ -1,0 +1,5 @@
+@media screen and (max-width: 1000px) {
+    .home-wrapper {
+        padding: 0 1rem;
+    }
+}

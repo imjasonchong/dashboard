@@ -1,0 +1,11 @@
+html, body, #root {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box !important;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Secular One', sans-serif;
+}

@@ -1,0 +1,27 @@
+.dayslist-wrapper {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.blacks {
+    background-color: #1E1C1D !important;
+    color: #fefefe !important;
+}
+
+.blacks:hover {
+    background-color: #343233 !important;
+}
+
+.blacks:active {
+    transform: scale(0.98);
+}
+
+.date-label {
+    font-size: 18px;
+}
+
+
+

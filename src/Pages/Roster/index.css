@@ -1,0 +1,22 @@
+.roster-wrapper {
+    margin: 3rem 0;
+    display: grid;
+    grid-template-columns: 1fr 9fr;
+    width: 100%;
+}
+
+.roster-sidebar {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-grow: 1;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.roster-content {
+    flex-grow: 1;
+    height: 100%;
+    margin: 0 1rem;
+    box-sizing: border-box !important;
+}
