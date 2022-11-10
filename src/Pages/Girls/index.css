@@ -1,8 +1,12 @@
 .girls-wrapper {
     margin: 2rem 0;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 300px));
+    grid-template-columns: repeat(auto-fit, minmax(250px, 300px));
     grid-template-rows: repeat(auto-fit, 1fr);
     gap: 3em;
     justify-content: center;
+}
+
+.girls-wrapper > .segment-wrapper:active {
+    transform: scale(0.99);
 }

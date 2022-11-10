@@ -11,7 +11,7 @@ const Roster = () => {
         <Days/>
       </div>
       <div className='roster-content'>
-        <TableExampleCelledStriped/>
+          <TableExampleCelledStriped/>
       </div>
     </div>
   )
