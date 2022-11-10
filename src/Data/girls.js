@@ -7,7 +7,7 @@ export const girls = [
         location : "Sydney",
         price : "$200",
         tags : ["Sydney","High"],
-        profileURL : "",
+        profileURL : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/320px-A_black_image.jpg",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -19,7 +19,7 @@ export const girls = [
         location : "Sydney",
         price : "$180",
         tags : ["Sydney","Student"],
-        profileURL : "",
+        profileURL : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/320px-A_black_image.jpg",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -31,7 +31,7 @@ export const girls = [
         location : "Sydney",
         price : "$200",
         tags : ["Sydney","Cute"],
-        profileURL : "",
+        profileURL : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/320px-A_black_image.jpg",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -43,7 +43,7 @@ export const girls = [
         location : "Sydney",
         price : "$200",
         tags : ["Sydney","Student","Busty"],
-        profileURL : "",
+        profileURL : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/320px-A_black_image.jpg",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -55,7 +55,7 @@ export const girls = [
         location : "Sydney",
         price : "$180",
         tags : ["Sydney","Student","Busty"],
-        profileURL : "",
+        profileURL : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/320px-A_black_image.jpg",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -67,7 +67,7 @@ export const girls = [
         location : "Sydney",
         price : "$180",
         tags : ["Sydney","Student","Busty"],
-        profileURL : "",
+        profileURL : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/320px-A_black_image.jpg",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -79,7 +79,7 @@ export const girls = [
         location : "Sydney",
         price : "$180",
         tags : ["Sydney","Student","Busty"],
-        profileURL : "",
+        profileURL : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/320px-A_black_image.jpg",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
