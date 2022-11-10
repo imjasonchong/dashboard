@@ -7,7 +7,7 @@ export const girls = [
         location : "Sydney",
         price : "$200",
         tags : ["Sydney","High"],
-        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/08/Seiko-Jp-1-scaled.jpeg",
+        profileURL : "",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -19,7 +19,7 @@ export const girls = [
         location : "Sydney",
         price : "$180",
         tags : ["Sydney","Student"],
-        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/10/Pinky-Cn-03.png",
+        profileURL : "",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -31,7 +31,7 @@ export const girls = [
         location : "Sydney",
         price : "$200",
         tags : ["Sydney","Cute"],
-        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/09/Hitomi0007.png",
+        profileURL : "",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -43,7 +43,7 @@ export const girls = [
         location : "Sydney",
         price : "$200",
         tags : ["Sydney","Student","Busty"],
-        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/10/Jessie-2-My.jpeg",
+        profileURL : "",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -55,7 +55,7 @@ export const girls = [
         location : "Sydney",
         price : "$180",
         tags : ["Sydney","Student","Busty"],
-        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/10/Hebe-Cn-1.png",
+        profileURL : "",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -67,7 +67,7 @@ export const girls = [
         location : "Sydney",
         price : "$180",
         tags : ["Sydney","Student","Busty"],
-        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/10/Shari-Jp-04.png",
+        profileURL : "",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
@@ -79,7 +79,7 @@ export const girls = [
         location : "Sydney",
         price : "$180",
         tags : ["Sydney","Student","Busty"],
-        profileURL : "https://citybrothel.com.au/wp-content/uploads/2022/08/Mako-Jp-01.png",
+        profileURL : "",
         avatarURL : "www.facebook.com",
         imgsURL: ["www.facebook.com","www.facebook.com"]
     },
